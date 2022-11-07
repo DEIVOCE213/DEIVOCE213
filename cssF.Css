@@ -19,7 +19,7 @@ header{
 }
 /*nav buttons*/
 li{
-  list-style: none;
+  list-style: none;/**/
 }
 nav li{
   list-style: none;
